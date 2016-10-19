@@ -2,7 +2,7 @@
 /**
  * Erick Ponce Leão <erickponceleao@gmail.com>
  */
-var _ = require("./node_modules/underscore");
+var _ = require("underscore");
 var querystring = require("querystring");
 var crypto = require("crypto");
 var Token = (function () {
