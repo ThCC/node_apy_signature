@@ -1,6 +1,6 @@
 {
   "name": "apysignature",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Javascript implementation of the Python Signature Library (https://github.com/erickponce/apysignature)",
   "main": "apysignature.js",
   "scripts": {
@@ -12,5 +12,19 @@
     "javascript"
   ],
   "author": "Erick Ponce Leão <erickponceleao@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThCC/node_apy_signature.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThCC/node_apy_signature/issues"
+  },
+  "dependencies": {
+    "crypto": "0.0.3",
+    "crypto-js": "^3.1.6",
+    "querystring": "^0.2.0",
+    "require": "2.4.20",
+    "underscore": "^1.8.3"
+  }
 }

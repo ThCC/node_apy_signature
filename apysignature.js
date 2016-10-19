@@ -1,6 +1,6 @@
 "use strict";
 /**
- * Created by erickleao.cirrus on 06/06/16.
+ * Erick Ponce Leão <erickponceleao@gmail.com>
  */
 var _ = require("./node_modules/underscore");
 var querystring = require("querystring");
