@@ -1,0 +1,16 @@
+{
+  "name": "apysignature",
+  "version": "0.1.0",
+  "description": "Javascript implementation of the Python Signature Library (https://github.com/erickponce/apysignature)",
+  "main": "apysignature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signature",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Erick Ponce Leão <erickponceleao@gmail.com>",
+  "license": "MIT"
+}
